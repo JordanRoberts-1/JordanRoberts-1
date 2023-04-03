@@ -1,6 +1,8 @@
 ![Alt Text](namepathfinding.gif)
 
-Hi, I'm a senior CS student at the University of Oklahoma searching for a job!
+## Hi, I'm a senior CS student at the University of Oklahoma searching for a job!
+
+<br />
 
 # Languages / Libraries 🛠
 
