@@ -25,5 +25,3 @@
 ## 🛣️ [A Star Pathfinding Visualizer in Java (Used in GIF above!)](https://github.com/JordanRoberts-1/AStarPathFinding) 🛣️
 
 <br /><br />
-
-[![JordanRoberts-1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanroberts-1)](https://github.com/anuraghazra/github-readme-stats)
