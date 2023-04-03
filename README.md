@@ -14,12 +14,12 @@
 
 # Top Projects 📦
 
-## 👨🏻‍💻 [Personal Website in ReactJS and TailwindCSS](jordanrobertsdeveloper.com) 👨🏻‍💻
+## 👨🏻‍💻 [Personal Website in ReactJS and TailwindCSS](https://jordanrobertsdeveloper.com) 👨🏻‍💻
 
 ## 🎮 [Flappy Bird in C++ and OpenGL](https://github.com/JordanRoberts-1/OpenGL-FlappyBird) 🎮
 
 ## 🧲 [2D Physics Simulator in C++ and OpenGL](https://github.com/JordanRoberts-1/2DPhysicsSimulator) 🧲
 
-## 🌊 [Wave Function Collapse Algorithm Simulator](https://github.com/JordanRoberts-1/wave-function-collapse) 🌊
+## 🌊 [Wave Function Collapse Algorithm Simulator](https://wavefunctioncollapse.onrender.com/) 🌊
 
 ## 🛣️ [A Star Pathfinding Visualizer in Java (Used in GIF above!)](https://github.com/JordanRoberts-1/AStarPathFinding) 🛣️
