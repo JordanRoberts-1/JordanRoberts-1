@@ -22,7 +22,7 @@
 
 ## 🌊 [Wave Function Collapse Algorithm Simulator](https://github.com/JordanRoberts-1/wave-function-collapse) 🌊
 
-## 🛣️ [A Star Pathfinding Visualizer in Java](https://github.com/JordanRoberts-1/AStarPathFinding) 🛣️
+## 🛣️ [A Star Pathfinding Visualizer in Java (Used in GIF above!)](https://github.com/JordanRoberts-1/AStarPathFinding) 🛣️
 
 <br /><br />
 
